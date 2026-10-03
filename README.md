@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar/h1>
+<h1 align="center">Hi 👋, I'm Manish Kumar /h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+and+MEVN+Stack+Developer;Computer+Science+Student;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
